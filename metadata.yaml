@@ -1,0 +1,26 @@
+_repo: USDA-Circular-363-The-Migration-of-North-American-Birds-1935_65265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Frederick Charles
+    aliases:
+    - Lincoln, F. C. (Frederick Charles)
+    - Lincoln, Frederick C.
+    birthdate: 1892
+    deathdate: 1960
+    gutenberg_agent_id: '53217'
+    url: http://www.gutenberg.org/2009/agents/53217
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Charles_Lincoln
+description: ''
+gutenberg_issued: '2021-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'USDA Circular 363: The Migration of North American Birds (1935)'
+url: http://www.gutenberg.org/ebooks/65265
